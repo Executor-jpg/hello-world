@@ -1,0 +1,50 @@
+.purple-color{
+    color: rgb(24, 196, 61);
+}
+
+body{
+    font-family: sans-serif;
+    color: #777777;
+    line-height: 23px;
+}
+
+.half-width{
+    width: 50%;
+    float: left;
+}
+
+.side-image{
+    /* width: 50%; */
+    padding-left: 7.5%;
+    padding-top: 5px;
+}
+
+.primary-button{
+    color: rgb(237, 243, 243);
+    background-color: green;
+    padding: 13px 20px 13px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    line-height: 50px;
+}
+
+h1{
+    font-size: 2.3em;
+}
+
+.container{
+    padding-left: 3%;
+    display: inline-block;
+}
+
+.experiences{
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(185, 247, 247);
+    border-radius: 20px;
+}
+
+.experience-item{
+    padding: 10px;
+    border-left: 1px solid rgba(137,130,247,2);
+}
